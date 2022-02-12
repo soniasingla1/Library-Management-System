@@ -1,2 +1,21 @@
+
 # Library-Management-System
-A Library Management System designed in Integrated Php and using mysqli as database.
+A Library Management System designed for manages all functions of library.
+
+
+
+
+
+
+
+## Front-end
+
+- HTML 
+- CSS
+- BOOTSTRAP
+
+## Back-end
+- PHP
+- MYSQLI DATABASE
+
+
