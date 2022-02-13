@@ -16,6 +16,6 @@ A Library Management System designed for manages all functions of library.
 
 ## Back-end
 - PHP
-- MYSQLI DATABASE
+- MYSQL DATABASE
 
 
